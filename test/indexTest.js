@@ -1,6 +1,7 @@
 require('./helpers.js');
 
 
+
 describe('index.js', function () {
     // Temperature Data
     const celsiusTemps = [25, 18, 15, 28, 20, 23, 30, 22, 24, 21, 27, 19, 26, 17, 29];
